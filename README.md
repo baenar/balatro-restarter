@@ -32,3 +32,9 @@ The entire process is triggered by pressing the `X1` side mouse button.
     python main.py
     ```
 3.  **Start Automation:** Once the script is running, while in game, press the **X1 mouse button** to begin the search. The script will take over mouse and keyboard control to perform the tasks. To stop it, you can close the terminal window or move mouse to one of the corners of your screen.
+
+4. **glhf**
+
+<p align="center" style="padding-top: 10%">
+  <img src="https://media1.tenor.com/m/jZy1UN0kPZYAAAAC/balatro-jimbo.gif" alt="glhf">
+</p>
